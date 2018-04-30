@@ -17,3 +17,8 @@ Note: keep the colums in the same order as mentioned in the code.
 If you want to see how the CSV file looks , use the Delimit app to view as we can not open huge files in Excel .
 
 LINK : http://www.delimitware.com/buy_w.html .
+
+
+
+Above is the dummy_input.csv file which shows how the original data should look and the original image of the data is being uploaded.
+
