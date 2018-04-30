@@ -1,0 +1,10 @@
+type,latitude,business_id,categories,is_open,neighborhood,review_count,state,city,stars,longitude,funny,user_id,review_id,date,useful,cool,average_stars,name,address
+review,,0W4lkclzZThpx3V65bVgig,,,,,,,5,,0,bv2nCi5Qv5vroFiqKGopiw,v0i_UHJMo_hPBq9bxWvW4w,2016-05-28,0,0,,,
+review,,AEx2SYEUJmTxVVB18LlCwA,,,,,,,5,,0,bv2nCi5Qv5vroFiqKGopiw,vkVSCC7xljjrAI4UGfnKEQ,2016-05-28,0,0,,,
+review,,VR6GpWIda3SfvPC-lg9H3w,,,,,,,5,,0,bv2nCi5Qv5vroFiqKGopiw,n6QzIUObkYshz4dz2QRJTw,2016-05-28,0,0,,,
+business,33.5091982,gXPRhYA8-sw8ZX0zoQBKTA,"['Beauty & Spas', 'Health & Medical', 'Medical Spas', 'Massage Therapy', 'Massage']",1,,31,AZ,Phoenix,3.5,-112.0438152,,,,,,,,Relax Foot Spa,"1747 E Camelback Rd, Ste 100A
+business,33.494706699999995,BnXj6E0iMrBUPzyyiNV1Qg,"[""Men's Hair Salons"", 'Hair Stylists', 'Beauty & Spas', 'Blow Dry/Out Services', 'Hair Salons', 'Barbers']",1,,22,AZ,Phoenix,4.5,-112.0154274,,,,,,,,Ellsworth Street Social Club,"3031 E Indian School Rd, Ste 10
+business,33.573253799999996,gMIAuR8Xgg6x72zSwxwyCg,"['Real Estate Services', 'Home Services', 'Real Estate', 'Mortgage Brokers']",1,,3,AZ,Fountain Hills,2.5,-111.71327350000001,,,,,,,,MCO Realty,9617 N Saguaro Blvd
+user,,,,,,14,,,,,0,qa3HavG_n1vHyUNf59iupQ,,,22,2,3.14,Julito,
+user,,,,,,77,,,,,0,EOrRm8NKQl6kcOnFpfoN1Q,,,1,0,4.09,Jessica,
+user,,,,,,9,,,,,0,cx6o2jLSE4_r5VhMrXjYew,,,2,7,5.0,Melissa,
