@@ -6,7 +6,8 @@ The instructions for Setup in windows is uploaded above.
 
 Eclipse is used as an IDE.
 
-Dataset : Yelp Dataset : https://www.yelp.com/academic_dataset
+Dataset : Yelp Dataset : https://www.yelp.com/academic_dataset  .
+
 Once the dataset is downloaded it is extracted and file named "yelp_dataset" with extension type "File" is extracted.
 rename this with extenion ".tar" and extract it again, you will get the dataset in JSON format.
 
